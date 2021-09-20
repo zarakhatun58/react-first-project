@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer = () => {
     return (
         <div>
-            <p> Copy Right Pretend</p>
+            <p style={{ color: 'blue' }}> Copy Right &copy; 2021 Prohibited</p>
         </div>
     );
 };
