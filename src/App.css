@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.product{
+  background-color: #61dafb;
+  margin: 20px;
+}
+
+.blog{
+  background-color:lightcyan;
+  color: black;
+  text-align: center;
+  border-radius: 20px;
+  margin: 10px;
+  border: 3px solid red;
+  
+  
+
+}
+
+.user{
+  background-color:rgb(28, 177, 60);
+  border: 3px solid red;
+  border-radius: 20px;
+  margin: 10px;
+}
+.battery{
+  height: 200px;
+  width: 80px;
+  border: 2px solid green;
+  margin: 30px;
+  margin-left: 100px;
+  display: inline-block;
+  justify-content: center;
+  text-align: center;
+}
